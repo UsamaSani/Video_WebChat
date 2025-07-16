@@ -40,8 +40,8 @@ dependencies: express, socket.io
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/video-chat-app.git
-cd video-chat-app
+git clone https://github.com/UsamaSani/video-Webchat.git
+cd video-Webchat
 ```
 
 ### 2. Install Server Dependencies
